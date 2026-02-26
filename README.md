@@ -50,11 +50,29 @@ All formal work is published on Zenodo and identified by DOI.
 
 ## Zenodo DOI Corpus
 
-(Replace with your actual DOIs)
-
-- https://doi.org/10.5281/zenodo.xxxxxxxx
-- https://doi.org/10.5281/zenodo.xxxxxxxx
-- https://doi.org/10.5281/zenodo.xxxxxxxx
+1. https://doi.org/10.5281/zenodo.17932006
+2. https://doi.org/10.5281/zenodo.17970227
+3. https://doi.org/10.5281/zenodo.17970630
+4. https://doi.org/10.5281/zenodo.17980439
+5. https://doi.org/10.5281/zenodo.17982152
+6. https://doi.org/10.5281/zenodo.17989759
+7. https://doi.org/10.5281/zenodo.17990414
+8. https://doi.org/10.5281/zenodo.18010809
+9. https://doi.org/10.5281/zenodo.18027359
+10. https://doi.org/10.5281/zenodo.18028443
+11. https://doi.org/10.5281/zenodo.18029593
+12. https://doi.org/10.5281/zenodo.18033038
+13. https://doi.org/10.5281/zenodo.18039321
+14. https://doi.org/10.5281/zenodo.18040174
+15. https://doi.org/10.5281/zenodo.18041565
+16. https://doi.org/10.5281/zenodo.18047627
+17. https://doi.org/10.5281/zenodo.18048465
+18. https://doi.org/10.5281/zenodo.18048717
+19. https://doi.org/10.5281/zenodo.18049431
+20. https://doi.org/10.5281/zenodo.18175517
+21. https://doi.org/10.5281/zenodo.18663653
+22. https://doi.org/10.5281/zenodo.18685758
+23. https://doi.org/10.5281/zenodo.18694951
 
 ---
 
