@@ -60,6 +60,8 @@ Zenodo DOI records define the canonical, immutable, and citable versions of all 
 
 No claims about AGDAU are authoritative unless they can be traced to a corresponding Zenodo DOI record.
 
+Canonical reference is defined by DOI + version as resolved by Zenodo.
+
 ---
 
 ## Citation Rule
