@@ -56,6 +56,10 @@ the Zenodo DOI version prevails.
 
 All authoritative, citable, and versioned records are defined exclusively by Zenodo DOI publications.
 
+Zenodo DOI records define the canonical, immutable, and citable versions of all AGDAU materials.
+
+No claims about AGDAU are authoritative unless they can be traced to a corresponding Zenodo DOI record.
+
 ---
 
 ## Citation Rule
@@ -75,97 +79,97 @@ Title — Zenodo record — DOI (authoritative)
 
 ---
 
-1. AGDAU: An Ontological Growth-Only Principle for Safe and Energy-Efficient Artificial General Intelligence  
-   Zenodo: https://zenodo.org/records/17932006  
-   DOI: https://doi.org/10.5281/zenodo.17932006  
+1. AGЪDAU: An Ontological Growth-Only Principle for Safe and Energy-Efficient Artificial General Intelligence  
+   Zenodo Record: https://zenodo.org/records/17932006  
+   DOI (canonical): https://doi.org/10.5281/zenodo.17932006  
 
 2. AGDAU: Ontological Geometry of Admissible Action for AGI Systems  
-   Zenodo: https://zenodo.org/records/17970227  
-   DOI: https://doi.org/10.5281/zenodo.17970227  
+   Zenodo Record: https://zenodo.org/records/17970227  
+   DOI (canonical): https://doi.org/10.5281/zenodo.17970227  
 
 3. AGDAU: Ontological Admissibility Criterion and Benchmark Protocol for AGI Systems  
-   Zenodo: https://zenodo.org/records/17970630  
-   DOI: https://doi.org/10.5281/zenodo.17970630  
+   Zenodo Record: https://zenodo.org/records/17970630  
+   DOI (canonical): https://doi.org/10.5281/zenodo.17970630  
 
 4. AGDAU: Ontological Admissibility Constraints for Safe Autonomous and General Intelligence  
-   Zenodo: https://zenodo.org/records/17980439  
-   DOI: https://doi.org/10.5281/zenodo.17980439  
+   Zenodo Record: https://zenodo.org/records/17980439  
+   DOI (canonical): https://doi.org/10.5281/zenodo.17980439  
 
 5. Preface: On Ontological Constraints, Proof, and the Architecture of Sustainable Intelligence (AGDAU)  
-   Zenodo: https://zenodo.org/records/17982152  
-   DOI: https://doi.org/10.5281/zenodo.17982152  
+   Zenodo Record: https://zenodo.org/records/17982152  
+   DOI (canonical): https://doi.org/10.5281/zenodo.17982152  
 
 6. Measurement Before Optimization: Admissibility Conditions for AI Safety Claims  
-   Zenodo: https://zenodo.org/records/17989759  
-   DOI: https://doi.org/10.5281/zenodo.17989759  
+   Zenodo Record: https://zenodo.org/records/17989759  
+   DOI (canonical): https://doi.org/10.5281/zenodo.17989759  
 
 7. Minimal Measurement for AI Safety Claims: A Pass/Fail Thought Experiment  
-   Zenodo: https://zenodo.org/records/17990414  
-   DOI: https://doi.org/10.5281/zenodo.17990414  
+   Zenodo Record: https://zenodo.org/records/17990414  
+   DOI (canonical): https://doi.org/10.5281/zenodo.17990414  
 
 8. On the Measurability of Safety Claims: Admissibility as a Precondition for Engineering and Regulation  
-   Zenodo: https://zenodo.org/records/18010809  
-   DOI: https://doi.org/10.5281/zenodo.18010809  
+   Zenodo Record: https://zenodo.org/records/18010809  
+   DOI (canonical): https://doi.org/10.5281/zenodo.18010809  
 
 9. Measurement-Based Admissibility of Safety-Related Assertions: Correcting a Fundamental Category Error in Contemporary AI Safety Evaluation  
-   Zenodo: https://zenodo.org/records/18027359  
-   DOI: https://doi.org/10.5281/zenodo.18027359  
+   Zenodo Record: https://zenodo.org/records/18027359  
+   DOI (canonical): https://doi.org/10.5281/zenodo.18027359  
 
 10. The Irreversibility of Measurement-Based Admissibility Regimes: A Structural Theorem for AI Governance, Regulation, and Legal Continuity  
-    Zenodo: https://zenodo.org/records/18028443  
-    DOI: https://doi.org/10.5281/zenodo.18028443  
+    Zenodo Record: https://zenodo.org/records/18028443  
+    DOI (canonical): https://doi.org/10.5281/zenodo.18028443  
 
 11. Catastrophic AGI Incidents Under Measurement-Based Admissibility Constraints: Why Systemic Failure Does Not Become Civilizational Collapse  
-    Zenodo: https://zenodo.org/records/18029593  
-    DOI: https://doi.org/10.5281/zenodo.18029593  
+    Zenodo Record: https://zenodo.org/records/18029593  
+    DOI (canonical): https://doi.org/10.5281/zenodo.18029593  
 
 12. Ontology-Induced Topology of Executable Reality  
-    Zenodo: https://zenodo.org/records/18033038  
-    DOI: https://doi.org/10.5281/zenodo.18033038  
+    Zenodo Record: https://zenodo.org/records/18033038  
+    DOI (canonical): https://doi.org/10.5281/zenodo.18033038  
 
 13. The Post-Turing Safety Theorem: Ontological Admissibility as a Necessary Condition for Safe Artificial General Intelligence  
-    Zenodo: https://zenodo.org/records/18039321  
-    DOI: https://doi.org/10.5281/zenodo.18039321  
+    Zenodo Record: https://zenodo.org/records/18039321  
+    DOI (canonical): https://doi.org/10.5281/zenodo.18039321  
 
 14. AGDAU: Existential Admissibility as a Foundation for Safe Post-Turing Artificial General Intelligence  
-    Zenodo: https://zenodo.org/records/18040174  
-    DOI: https://doi.org/10.5281/zenodo.18040174  
+    Zenodo Record: https://zenodo.org/records/18040174  
+    DOI (canonical): https://doi.org/10.5281/zenodo.18040174  
 
 15. Energy Inefficiency and Systemic Risk in Agentic AI Arise from a Common Structural Cause: The Admission of Ontologically Unreachable Actions  
-    Zenodo: https://zenodo.org/records/18041565  
-    DOI: https://doi.org/10.5281/zenodo.18041565  
+    Zenodo Record: https://zenodo.org/records/18041565  
+    DOI (canonical): https://doi.org/10.5281/zenodo.18041565  
 
 16. Reducing Data Center Energy by Eliminating Systemic Risk: An Engineering Letter to CEOs Building Large-Scale Intelligent Systems  
-    Zenodo: https://zenodo.org/records/18047627  
-    DOI: https://doi.org/10.5281/zenodo.18047627  
+    Zenodo Record: https://zenodo.org/records/18047627  
+    DOI (canonical): https://doi.org/10.5281/zenodo.18047627  
 
 17. Admissible Action Space as a Precondition for Energy and Risk Scalability  
-    Zenodo: https://zenodo.org/records/18048465  
-    DOI: https://doi.org/10.5281/zenodo.18048465  
+    Zenodo Record: https://zenodo.org/records/18048465  
+    DOI (canonical): https://doi.org/10.5281/zenodo.18048465  
 
 18. Worked Example (Abstract)  
-    Zenodo: https://zenodo.org/records/18048717  
-    DOI: https://doi.org/10.5281/zenodo.18048717  
+    Zenodo Record: https://zenodo.org/records/18048717  
+    DOI (canonical): https://doi.org/10.5281/zenodo.18048717  
 
 19. Emergent Inter-AI Agent Ontological Hazard (EIAOH): A Dynamical and Complexity-Theoretic Foundation for Joint Admissibility  
-    Zenodo: https://zenodo.org/records/18049431  
-    DOI: https://doi.org/10.5281/zenodo.18049431  
+    Zenodo Record: https://zenodo.org/records/18049431  
+    DOI (canonical): https://doi.org/10.5281/zenodo.18049431  
 
 20. A Fixed-Point Theory of Admissible Trajectories: From Viability Kernels to Pre-Execution Ontological Gates (AGDAU Core)  
-    Zenodo: https://zenodo.org/records/18175517  
-    DOI: https://doi.org/10.5281/zenodo.18175517  
+    Zenodo Record: https://zenodo.org/records/18175517  
+    DOI (canonical): https://doi.org/10.5281/zenodo.18175517  
 
 21. Deployable and Insurable AGI Requires Verifiable Execution Admissibility: A Conditional Bounded-Loss Theorem for Agent Systems  
-    Zenodo: https://zenodo.org/records/18663653  
-    DOI: https://doi.org/10.5281/zenodo.18663653  
+    Zenodo Record: https://zenodo.org/records/18663653  
+    DOI (canonical): https://doi.org/10.5281/zenodo.18663653  
 
 22. Execution Admissibility Theory for Autonomous Agents — Part II: Control Surface and Regime Separation  
-    Zenodo: https://zenodo.org/records/18685758  
-    DOI: https://doi.org/10.5281/zenodo.18685758  
+    Zenodo Record: https://zenodo.org/records/18685758  
+    DOI (canonical): https://doi.org/10.5281/zenodo.18685758  
 
 23. Execution Admissibility Theory for Autonomous Agents — Part III: Non-Bypass and Conformance Closure Theorem  
-    Zenodo: https://zenodo.org/records/18694951  
-    DOI: https://doi.org/10.5281/zenodo.18694951  
+    Zenodo Record: https://zenodo.org/records/18694951  
+    DOI (canonical): https://doi.org/10.5281/zenodo.18694951  
 
 ## Execution Admissibility Closure (AGDAU Core)
 
@@ -307,6 +311,8 @@ This repository is designed to:
 - AGI safety architecture  
 - ASI governance  
 - execution-level control systems
+- execution admissibility operator
+- admissibility gate G(action, state, context)
 
 ---
 
